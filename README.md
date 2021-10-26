@@ -1,5 +1,6 @@
-# object-detection-app-vue
+# ML Eyes
 
+Feel free to check out the Medium write up on the piece here -
 ## Project setup
 ```
 yarn install
