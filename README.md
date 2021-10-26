@@ -1,6 +1,6 @@
 # ML Eyes
 
-Feel free to check out the Medium write up on the piece here -
+Feel free to check out the Medium write up on the project here - https://medium.com/madebymckinney/eyes-in-the-back-of-my-head-an-ai-alternative-to-looking-over-your-shoulder-c43045d3210
 ## Project setup
 ```
 yarn install
